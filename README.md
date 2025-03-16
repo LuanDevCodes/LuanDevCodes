@@ -19,10 +19,7 @@
     <div style="display: inline_block; margin-top: -20px;">
 <img align="left" alt="" height="180" alt="coding-time" src="novogif.gif">
     <br>
-    <img align="center" height="30" width="40" alt="js-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+    <img align="center" href="https://skillicons.dev" img src="https://skillicons.dev/icons?i=js,html,css,c,cpp">
 </div>
 
 #

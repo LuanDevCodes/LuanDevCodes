@@ -12,7 +12,7 @@
 
 <br>
 <div align="center"> 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanDevCodes&layout=donut&&langs_count=16&theme=chartreuse-dark"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=donut&&langs_count=16&theme=chartreuse-dark"/>
 </div>
 
 <div align="center"> 

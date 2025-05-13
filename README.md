@@ -4,7 +4,7 @@
 
 #
 
-Desenvolvedor curioso, sempre aprendendo algo novo, estudando programação e sempre explorando novas tecnologias. Buscando aprender e aprimorar minhas habilidades a cada projeto.
+Desenvolvedor iniciante, sempre aprendendo algo novo, estudando programação e sempre explorando novas tecnologias. Buscando aprender e aprimorar minhas habilidades a cada projeto.
 
 #
 

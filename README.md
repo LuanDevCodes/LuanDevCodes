@@ -1,12 +1,10 @@
 #
 
-<h3 align="center">Olá, Seja Bem Vindo</h3>
+<h3 align="center">👋 Olá, eu sou Luan</h3>
 
 #
 
-## 🚀 Sobre Mim
-- Estudando programação e sempre explorando novas tecnologias.
-- Buscando aprender e aprimorar minhas habilidades a cada projeto.
+Desenvolvedor curioso, sempre aprendendo algo novo, estudando programação e sempre explorando novas tecnologias. Buscando aprender e aprimorar minhas habilidades a cada projeto.
 
 #
 

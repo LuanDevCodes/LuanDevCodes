@@ -1,10 +1,10 @@
 #
 
-<h3 align="center">👋 Olá, eu sou Luan</h3>
+<h3 align="center">console.log("E aí, beleza? Me chamo Luan :)");</h3>
 
 #
 
-Desenvolvedor iniciante, sempre aprendendo algo novo, estudando programação e sempre explorando novas tecnologias. Buscando aprender e aprimorar minhas habilidades a cada projeto.
+Desenvolvedor iniciante, sempre aprendendo algo novo, estudando programação e explorando novas tecnologias. Buscando aprender e aprimorar minhas habilidades a cada projeto.
 
 #
 

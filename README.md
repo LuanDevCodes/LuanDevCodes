@@ -4,9 +4,9 @@
 
 #
 
-<div>
-    <p align="center"> 💻 Estudando programação e sempre explorando novas tecnologias 👨‍💻 <br>  📚 Buscando aprender e aprimorar minhas habilidades a cada projeto 📊 </p>
-</div>
+## 🚀 Sobre Mim
+- Estudando programação e sempre explorando novas tecnologias.
+- Buscando aprender e aprimorar minhas habilidades a cada projeto.
 
 #
 

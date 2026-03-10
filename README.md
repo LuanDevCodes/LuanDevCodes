@@ -1,10 +1,10 @@
 #
 
-<h3 align="center">console.log("E aí, beleza? Meu nome é Luan :)");</h3>
+<h3 align="center">print("E aí, beleza? Meu nome é Luan :)")</h3>
 
 #
 
-Desenvolvedor iniciante, sempre aprendendo algo novo, cursando ciência da computação e explorando novas tecnologias. Buscando aprender e aprimorar minhas habilidades a cada projeto.
+Estudante de Ciência da Computação e desenvolvedor em constante evolução. Atualmente, meu foco hoje está no ecossistema **Python**, desenvolvendo projetos focados em automações (RPA), consumo de APIs e estruturação de dados. Sou movido pelo aprendizado contínuo e busco aplicar meus aprendizados em desafios como desenvolvedor no dia a dia.
 
 #
 
@@ -12,7 +12,7 @@ Desenvolvedor iniciante, sempre aprendendo algo novo, cursando ciência da compu
     <div style="display: inline_block; margin-top: -20px;">
 <img align="left" alt="" height="180" alt="coding-time" src="novogif.gif">
     <br>
-    <img align="center" href="https://skillicons.dev" img src="https://skillicons.dev/icons?i=js,c,cpp,python,php">
+    <img align="center" href="https://skillicons.dev" img src="https://skillicons.dev/icons?i=python,js,php,c,cpp">
 </div>
     
 #

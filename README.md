@@ -12,7 +12,14 @@ Estudante de Ciência da Computação e desenvolvedor em constante evolução. A
     <div style="display: inline_block; margin-top: -20px;">
 <img align="left" alt="" height="180" alt="coding-time" src="novogif.gif">
     <br>
-    <img align="center" href="https://skillicons.dev" img src="https://skillicons.dev/icons?i=devto,python,js,html,css,cs,dotnet,c,cpp">
+    <img align="center" href="https://skillicons.dev" img src="https://skillicons.dev/icons?i=devto,python,js,html,css,cs,dotnet,c">
 </div>
     
 #
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuanDevCodes/LuanDevCodes/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuanDevCodes/LuanDevCodes/output/github-contribution-grid-snake.svg">
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LuanDevCodes/LuanDevCodes/output/github-contribution-grid-snake.svg">
+</picture>
+<br>

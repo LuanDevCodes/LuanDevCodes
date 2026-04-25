@@ -1,10 +1,10 @@
 #
 
-<h3 align="center">print("E aí, beleza? Meu nome é Luan :)")</h3>
+<h3 align="center">print("E aí, beleza? Meu nome é Luan :D")</h3>
 
 #
 
-Estudante de Ciência da Computação e desenvolvedor em constante evolução. Atualmente, meu foco hoje está no ecossistema **Python**, desenvolvendo projetos focados em automações (RPA), consumo de APIs e estruturação de dados. Sou movido pelo aprendizado contínuo e busco aplicar meus aprendizados em desafios como desenvolvedor no dia a dia.
+Estudante de Ciência da Computação e desenvolvedor em constante evolução. Atualmente, meu foco hoje está no ecossistema **Python** e **C#**, desenvolvendo projetos focados em automações (RPA) e iniciando meus estudos em C# + Dotnet. Sou movido pelo aprendizado contínuo e busco aplicar meus aprendizados em desafios como desenvolvedor no dia a dia.
 
 #
 

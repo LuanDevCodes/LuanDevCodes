@@ -19,14 +19,7 @@ Estudante de Ciência da Computação e desenvolvedor em constante evolução. A
 
 <h3 align="left">Connect with me: </h3>
 
-<div>
-  <a href="https://www.linkedin.com/in/luan-ferreira-442432350" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:fe.luan@protonmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-ferreira-442432350) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fe.luan@protonmail.com)
     
 #
 

@@ -17,7 +17,7 @@ Estudante de Ciência da Computação e desenvolvedor em constante evolução. A
     <img align="center" href="https://skillicons.dev" img src="https://skillicons.dev/icons?i=python,js,html,css,cs,c">
 </div><br>
 
-<h3 align="left">Connect with me: </h3>
+<h3 align="center">Connect with me: </h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-ferreira-442432350) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fe.luan@protonmail.com)
     

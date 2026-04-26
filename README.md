@@ -1,5 +1,7 @@
 #
 
+**`Desenvolvedor FullStack`**
+
 <h3 align="center">print("E aí, beleza? Meu nome é Luan :D")</h3>
 
 #
@@ -12,8 +14,15 @@ Estudante de Ciência da Computação e desenvolvedor em constante evolução. A
     <div style="display: inline_block; margin-top: -20px;">
 <img align="left" alt="" height="180" alt="coding-time" src="novogif.gif">
     <br>
-    <img align="center" href="https://skillicons.dev" img src="https://skillicons.dev/icons?i=devto,python,js,html,css,cs,dotnet,c">
-</div>
+    <img align="center" href="https://skillicons.dev" img src="https://skillicons.dev/icons?i=python,js,html,css,cs,c">
+</div><br>
+
+<a href="https://www.linkedin.com/in/luan-ferreira-442432350" target="_blank">
+  <img src="https://shields.io" alt="LinkedIn">
+</a>
+<a href="mailto:fe.luan@protonmail.com">
+  <img src="https://shields.io" alt="Email">
+</a>
     
 #
 

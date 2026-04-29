@@ -6,7 +6,7 @@
 
 #
 
-Estudante de Ciência da Computação e desenvolvedor em constante evolução. Atualmente, meu foco hoje está no ecossistema **Python** e **C#**, desenvolvendo projetos focados em automações (RPA) e iniciando meus estudos em C# + Dotnet. Sou movido pelo aprendizado contínuo e busco aplicar meus aprendizados em desafios como desenvolvedor no dia a dia.
+Estudante de Ciência da Computação e desenvolvedor em constante evolução. Atualmente, meu foco está no ecossistema **Python** e o ecossistema **C#/.NET**, direcionado ao desenvolvendo de projetos em automações (RPA) e aprendendo de forma prática sobre a manutenção e evolução de sistemas em C#, onde meu principal desafio é analisar códigos complexos e aplicar melhorias cirúrgicas na arquitetura e no fluxo de dados. Sou movido pelo aprendizado contínuo e busco aplicar meus aprendizados em desafios como desenvolvedor no dia a dia.
 
 #
 
